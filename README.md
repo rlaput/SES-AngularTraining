@@ -1,2 +1,2 @@
-# SES-AngularTraining
-SES Angular Training
+# SES Angular UI Training
+Angular UI Training for SES Team.
